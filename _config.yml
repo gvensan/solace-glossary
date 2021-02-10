@@ -105,3 +105,6 @@ footer_links:
   - title: Instagram
     url: https://www.instagram.com/swaminetero/
     icon: fab fa-instagram
+    
+# Copyright
+copyright: "This site is made with <3 by *me, myself, and I*."
