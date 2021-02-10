@@ -21,7 +21,7 @@ title: "Jay Ultro"
 description: "Be Realistic: Demand The Impossible"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://jayultro.github.io/"
-logo: "https://drive.google.com/file/d/1AJ6Tg93Yg1a8BxxozovfMDQ3mb1Hu3II/view?usp=sharing"
+logo: "/assets/Swami_Logo_200x200.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 265
