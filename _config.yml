@@ -17,14 +17,14 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "Jay Ultro"
+description: "Be Realistic: Demand The Impossible"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+url: "https://jayultro.github.io/"
+logo: "https://drive.google.com/file/d/1nLFQE3IFomeBARrgSgos27c4JfYjPWRl/view?usp=sharing"
 date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+read_time: true
+words_per_minute: 265
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
@@ -34,11 +34,11 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+google_analytics: 261779179
 disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+  shortname: swaminetero
 twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+  username: swaminetero
 
 # Liquid
 liquid:
@@ -55,7 +55,7 @@ feed:
 # paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
