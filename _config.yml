@@ -17,10 +17,10 @@ theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Jay Ultro"
+title: "Jordan Levi"
 description: "Be Realistic: Demand The Impossible"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://jayultro.github.io/"
+url: "https://jordanrlevi.github.io/"
 logo: "/assets/Swami_Logo_200x200.png"
 date_format: "%B %-d, %Y"
 read_time: true
