@@ -30,10 +30,12 @@ mathjax:
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
 google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
+  - name: "Poppins"
+    weights: "100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+  - name: "Kreon"
+    weights: "300,400,500,600,700"
+  - name: "DM Mono"
+    weights: "300,300i,400,400i,500,500i"
 google_analytics: 261779179
 disqus:
   shortname: swaminetero
