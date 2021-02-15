@@ -12,8 +12,9 @@ comments: true
 published: true
 share: true
 permalink: revolution-not-reform
-<meta name="twitter:card" content="summary_large_image"></meta>
-<meta name="twitter:site" content="@swaminetero"></meta>
 ---
-
+<head>
+ <meta name="twitter:card" content="summary_large_image" />
+ <meta name="twitter:site" content="@swaminetero" />
+</head>
 just testing out making a new post first
