@@ -9,7 +9,11 @@ image:
 date: 2019-09-14 16:19:00 +0800
 author: Jordan Levi
 comments: true
+published: true
+share: true
 permalink: revolution-not-reform
+<meta name="twitter:card" content="summary_large_image"></meta>
+<meta name="twitter:site" content="@swaminetero"></meta>
 ---
 
 just testing out making a new post first
