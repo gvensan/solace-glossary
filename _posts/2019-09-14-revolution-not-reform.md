@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Revolution, Not Reform"
+title: Revolution, Not Reform
 excerpt: "My first pamphlet."
 image: 
   path: /assets/images/rnr/RNR.jpg
