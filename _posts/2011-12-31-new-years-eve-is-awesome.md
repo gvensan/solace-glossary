@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Test Post"
 author: Jordan Levi
 ---
 
