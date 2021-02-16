@@ -38,4 +38,4 @@ white-space: nowrap;
 overflow: hidden;
 text-overflow: ellipsis;
 
-Originally published at (http://www.wspus.org)[http://www.wspus.org/2020/03/how-i-became-a-socialist/].
+Originally published at [http://www.wspus.org](http://www.wspus.org/2020/03/how-i-became-a-socialist/).
