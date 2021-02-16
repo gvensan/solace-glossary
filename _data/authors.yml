@@ -6,6 +6,18 @@ Jordan Levi:
   picture: /assets/95596764_2753426071610374_6920989657612385172_n.png
   twitter: swaminetero
   links:
+    - title: Twitter
+      url: https://twitter.com/swaminetero
+      icon: fab fa-twitter
     - title: Instagram
       url: https://www.instagram.com/swaminetero/
       icon: fab fa-instagram
+    - title: Facebook
+      url: https://www.facebook.com/SwamiNetero
+      icon: fab fa-facebook-f
+    - title: Snapchat
+      url: https://www.snapchat.com/add/swaminetero
+      icon: fab fa-snapchat-ghost
+    - title: Linktree
+      url: https://linktr.ee/swaminetero
+      icon: fas fa-link
