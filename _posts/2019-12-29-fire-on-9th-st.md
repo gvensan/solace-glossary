@@ -35,26 +35,26 @@ In a socialist society, there’d be no profit motive, because there’d be no m
 
 So, what sounds better to you? Do you want a system that puts profit over human safety or a system that puts social and environmental security over everything? Contrary to what the mainstream media may have you believe: the latter is possible. But a small minority of us can’t build it alone, only a vast majority of us can make it together.
 
-[1] https://gaming.nv.gov/index.aspx?page=144
+[1] <a href="url">https://gaming.nv.gov/index.aspx?page=144</a>
 
-[2] https://content.govdelivery.com/accounts/NVLASVEGAS/bulletins/272bf75
+[2] <a href="url">https://content.govdelivery.com/accounts/NVLASVEGAS/bulletins/272bf75</a>
 
-[3] https://www.reviewjournal.com/videos/alpine-fire-survivor/
+[3] <a href="url">https://www.reviewjournal.com/videos/alpine-fire-survivor/</a>
 
-[4] https://www.cnbc.com/2016/10/03/how-much-americans-at-every-age-have-in-their-savings-accounts.html
+[4] <a href="url">https://www.cnbc.com/2016/10/03/how-much-americans-at-every-age-have-in-their-savings-accounts.html</a>
 
-[5] http://press.careerbuilder.com/2017-08-24-Living-Paycheck-to-Paycheck-is-a-Way-of-Life-for-Majority-of-U-S-Workers-According-to-New-CareerBuilder-Survey
+[5] <a href="url">http://press.careerbuilder.com/2017-08-24-Living-Paycheck-to-Paycheck-is-a-Way-of-Life-for-Majority-of-U-S-Workers-According-to-New-CareerBuilder-Survey</a>
 
-[6] http://www.pewtrusts.org/~/media/assets/2015/07/reach-of-debt-report_artfinal.pdf?la=en
+[6] <a href="url">http://www.pewtrusts.org/~/media/assets/2015/07/reach-of-debt-report_artfinal.pdf?la=en</a>
 
-[7] https://www.southernnevadahealthdistrict.org/permits-and-regulations/landlord-tenant-disputes/
+[7] <a href="url">https://www.southernnevadahealthdistrict.org/permits-and-regulations/landlord-tenant-disputes/</a>
 
-[8] https://www.leg.state.nv.us/NRS/NRS-118A.html#NRS118ASec290
+[8] <a href="url">https://www.leg.state.nv.us/NRS/NRS-118A.html#NRS118ASec290</a>
 
-[9] https://www.leg.state.nv.us/NRS/NRS-477.html#NRS477Sec130
+[9] <a href="url">https://www.leg.state.nv.us/NRS/NRS-477.html#NRS477Sec130</a>
 
-[10] https://www.leg.state.nv.us/NRS/NRS-477.html#NRS477Sec140
+[10] <a href="url">https://www.leg.state.nv.us/NRS/NRS-477.html#NRS477Sec140</a>
 
 <hr>
 
-Originally published at http://www.wspus.org/2019/12/fire-on-9th-st/.
+Originally published at <a href="url">http://www.wspus.org/2019/12/fire-on-9th-st/</a>.
