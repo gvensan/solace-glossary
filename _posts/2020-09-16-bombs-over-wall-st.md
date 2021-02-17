@@ -27,6 +27,6 @@ Moreover, these attacks don’t usually radicalize proletarians, but more often 
 
 We can only realize a socialist revolution peacefully. A democratic society must be founded democratically. In the words of Friedrich Engels: “The time is past for revolutions carried through by small minorities at the head of unconscious masses. When it gets to be a matter of the complete transformation of the social organization, the masses themselves must participate, must understand what is at stake and why they are to act.” The ruling class may attempt to use violence anyway, but it’s much harder to convince people that entirely peaceful movements are somehow evil. Suppressing peaceful rebels has always bolstered their support anyway.
 
-a
+<hr>
 
 Originally published at [http://www.wspus.org](http://www.wspus.org/2020/09/bombs-over-wall-st/).
