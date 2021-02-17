@@ -33,9 +33,6 @@ I tried not to think about it for a couple of months. I did my first tour as a m
 
 Having recognized the differences between what Marx, Lenin, and Bernie were talking about, I naturally wondered why they all referred to their ideology as socialism. To get some insight on this, I skimmed through the Wikipedia page for socialism. Reading that led me to the page on Marxism, which led me to the page on orthodox Marxism, which has a section on impossibilism that led me to the Socialist Party of Great Britain’s website. There I read through each section on the ‘About Us’ dropdown menu and was amazed. I’d never heard anyone refer to the USSR as state capitalist before, and that instantly shocked me because it made perfect sense. They also defined the DSA, and Bernie Sanders by association, as reformist and that was another game changer for me. I spent a few days reading through some more articles on the website and the most recent issue of <i>The Socialist Standard</i> (October 2018) and was even more amazed to find out that they’d had the same message and goals since 1904. The fact that they’d stuck by the same principles while so many other people and groups faltered sold me. I knew their message was watertight, enough people just hadn’t considered their perspective yet. I applied for membership in the American counterpart to the SPGB, the WSPUS, a few days later and got to work reading more of Marx’s work to strengthen my knowledge of socialism from there.
 
-max-width: 100px;
-white-space: nowrap;
-overflow: hidden;
-text-overflow: ellipsis;
+<hr>
 
 Originally published at [http://www.wspus.org](http://www.wspus.org/2020/03/how-i-became-a-socialist/).
