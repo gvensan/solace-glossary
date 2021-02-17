@@ -13,9 +13,7 @@ published: true
 share: true
 permalink: fire-on-9th-st
 ---
-placeholder text.<sup>[[1](http://www.wspus.org/2019/12/fire-on-9th-st/)]</sup><sup>[[2](https://www.geeksforgeeks.org/html-subscript-superscript-tags/)]</sup>
-
-Whenever out-of-towners imagine Las Vegas, they’ll usually think of the extravagance of downtown and the strip. Glistening lights, risqué showgirls, exquisite food – It’s like a never-ending party that grossed over $19.5 Billion in the fiscal year 2018 alone.[1] Settled in 1905, Vegas became the most populated American city founded within the 20th century. Like all cities, architects built Vegas outward, so most of the city’s oldest buildings and poorest neighborhoods are just blocks away from that same extravagance.
+Whenever out-of-towners imagine Las Vegas, they’ll usually think of the extravagance of downtown and the strip. Glistening lights, risqué showgirls, exquisite food – It’s like a never-ending party that grossed over $19.5 Billion in the fiscal year 2018 alone.[[1](https://gaming.nv.gov/index.aspx?page=144)]</sup><sup> Settled in 1905, Vegas became the most populated American city founded within the 20th century. Like all cities, architects built Vegas outward, so most of the city’s oldest buildings and poorest neighborhoods are just blocks away from that same extravagance.
 
 Another thing Vegas has in common with other American cities is, unfortunately, the rapidly rising rent prices. A two-bedroom apartment that cost me $695/month in late 2014 is now going for $1,175/month, five years later – and most locals would consider that neighborhood sketchy. Just go on Twitter and search “Charleston and Nellis.” If you’re making minimum wage, have a criminal record, or past evictions, then you’ll usually be forced to live in an even less desirable neighborhood. It should go without saying that many of the cheap, “second chance” apartments and extended-stay hotels that will accept people in those circumstances tend to be in those more impoverished neighborhoods downtown and just off the strip. It should also go without saying that those same residences tend to cut corners to save money.
 
