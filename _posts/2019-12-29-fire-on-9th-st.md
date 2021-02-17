@@ -13,7 +13,7 @@ published: true
 share: true
 permalink: fire-on-9th-st
 ---
-Whenever out-of-towners imagine Las Vegas, they’ll usually think of the extravagance of downtown and the strip. Glistening lights, risqué showgirls, exquisite food – It’s like a never-ending party that grossed over $19.5 Billion in the fiscal year 2018 alone.[[1](https://gaming.nv.gov/index.aspx?page=144)]</sup><sup> Settled in 1905, Vegas became the most populated American city founded within the 20th century. Like all cities, architects built Vegas outward, so most of the city’s oldest buildings and poorest neighborhoods are just blocks away from that same extravagance.
+Whenever out-of-towners imagine Las Vegas, they’ll usually think of the extravagance of downtown and the strip. Glistening lights, risqué showgirls, exquisite food – It’s like a never-ending party that grossed over $19.5 Billion in the fiscal year 2018 alone.<sup>[[1](https://gaming.nv.gov/index.aspx?page=144)]</sup> Settled in 1905, Vegas became the most populated American city founded within the 20th century. Like all cities, architects built Vegas outward, so most of the city’s oldest buildings and poorest neighborhoods are just blocks away from that same extravagance.
 
 Another thing Vegas has in common with other American cities is, unfortunately, the rapidly rising rent prices. A two-bedroom apartment that cost me $695/month in late 2014 is now going for $1,175/month, five years later – and most locals would consider that neighborhood sketchy. Just go on Twitter and search “Charleston and Nellis.” If you’re making minimum wage, have a criminal record, or past evictions, then you’ll usually be forced to live in an even less desirable neighborhood. It should go without saying that many of the cheap, “second chance” apartments and extended-stay hotels that will accept people in those circumstances tend to be in those more impoverished neighborhoods downtown and just off the strip. It should also go without saying that those same residences tend to cut corners to save money.
 
@@ -36,14 +36,23 @@ In a socialist society, there’d be no profit motive, because there’d be no m
 So, what sounds better to you? Do you want a system that puts profit over human safety or a system that puts social and environmental security over everything? Contrary to what the mainstream media may have you believe: the latter is possible. But a small minority of us can’t build it alone, only a vast majority of us can make it together.
 
 [1] https://gaming.nv.gov/index.aspx?page=144
+
 [2] https://content.govdelivery.com/accounts/NVLASVEGAS/bulletins/272bf75
+
 [3] https://www.reviewjournal.com/videos/alpine-fire-survivor/
+
 [4] https://www.cnbc.com/2016/10/03/how-much-americans-at-every-age-have-in-their-savings-accounts.html
+
 [5] http://press.careerbuilder.com/2017-08-24-Living-Paycheck-to-Paycheck-is-a-Way-of-Life-for-Majority-of-U-S-Workers-According-to-New-CareerBuilder-Survey
+
 [6] http://www.pewtrusts.org/~/media/assets/2015/07/reach-of-debt-report_artfinal.pdf?la=en
+
 [7] https://www.southernnevadahealthdistrict.org/permits-and-regulations/landlord-tenant-disputes/
+
 [8] https://www.leg.state.nv.us/NRS/NRS-118A.html#NRS118ASec290
+
 [9] https://www.leg.state.nv.us/NRS/NRS-477.html#NRS477Sec130
+
 [10] https://www.leg.state.nv.us/NRS/NRS-477.html#NRS477Sec140
 
 <hr>
