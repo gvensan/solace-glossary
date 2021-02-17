@@ -13,4 +13,4 @@ published: true
 share: true
 permalink: fire-on-9th-st
 ---
-placeholder text
+placeholder text[[^1](http://www.wspus.org/2019/12/fire-on-9th-st/)]
