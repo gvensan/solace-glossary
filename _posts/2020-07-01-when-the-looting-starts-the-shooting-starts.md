@@ -1,6 +1,6 @@
 ---
 layout: post
-title: &#39;When the looting starts, the shooting starts.&#39;
+title: "'When the looting starts, the shooting starts.'"
 excerpt: "Capitalism chooses property over people."
 image: 
   path: /assets/images/wtlstss large.jpg
