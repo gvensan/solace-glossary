@@ -6,7 +6,7 @@ image:
   path: /assets/images/bows large.jpg
   thumbnail: /assets/images/bows thumb.png
   caption: Photo NY Daily News via Getty Images.
-date: 2020-07-16 13:02:00 +0800
+date: 2020-09-16 13:02:00 +0800
 author: Jordan Levi
 comments: true
 published: true
