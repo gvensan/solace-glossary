@@ -29,4 +29,4 @@ We can only realize a socialist revolution peacefully. A democratic society must
 
 <hr>
 
-Originally published at [http://www.wspus.org](http://www.wspus.org/2020/09/bombs-over-wall-st/).
+Originally published at <a href="url">http://www.wspus.org/2020/09/bombs-over-wall-st/</a>.
