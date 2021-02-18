@@ -35,4 +35,4 @@ Having recognized the differences between what Marx, Lenin, and Bernie were talk
 
 <hr>
 
-Originally published at [http://www.wspus.org](http://www.wspus.org/2020/03/how-i-became-a-socialist/).
+Originally published at <a href="url">http://www.wspus.org/2020/03/how-i-became-a-socialist/</a>.
