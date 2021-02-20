@@ -3,6 +3,9 @@ title: About
 layout: page
 permalink: /about/
 ---
+
+![no-alignment]({{ '/assets/images/IMG_7376.jpg' | absolute_url }})
+
 Waddup, my name's Jordan Levi and I hate capitalism.
 
 I was born in Oakland, California on June 5, 1993 and moved to Las Vegas, Nevada in April of 2000. I grew up broke to say the least, but I didn't really get into politics 'til I got a little older.
