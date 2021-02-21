@@ -2,6 +2,20 @@
 layout: post
 title: Bombs Over Wall St
 excerpt: "When blood's spilled, workers lose."
+categories:
+  - Articles
+tags:
+  - Socialism
+  - Anarchism
+  - Propaganda by the Deed
+  - Wall Street
+  - New York City
+  - NYC
+  - East Coast
+  - Northeast
+  - USA
+  - United States
+  - America
 image: 
   path: /assets/images/bows large.jpg
   thumbnail: /assets/images/bows thumb.png
