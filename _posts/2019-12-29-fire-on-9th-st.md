@@ -2,6 +2,16 @@
 layout: post
 title: Fire On 9th St
 excerpt: "A capitalist's negligence kills 6."
+categories:
+  - Articles
+tags:
+  - Capitalism
+  - Las Vegas
+  - Nevada
+  - West Coast
+  - Southwest
+  - USA
+  - America
 image: 
   path: /assets/images/fo9 large.jpg
   thumbnail: /assets/images/fo9 thumb.png
