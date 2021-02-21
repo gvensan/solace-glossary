@@ -24,7 +24,7 @@ I like PeachPay, because it's free, open source, and donors don't need to make a
 
 <a href="url">https://www.peachpay.me/jordanlevi</a>
 
-Button error, trying to figure this out
+<a data-v-32df0330="" id="preview-btn" target="_blank" href="https://www.peachpay.me/jordanlevi" style="background-color: rgb(255, 124, 113); background-image: url(&quot;https://www.peachpay.me/packs/peachpay-lg-9ec30a767ce1c6bf1a6e0f6f07ddd887.png&quot;) !important; background-repeat: no-repeat; border-radius: 2px; font-family: &quot;Avenir Next LT Pro Regular&quot;, &quot;Open Sans&quot;, sans-serif; font-weight: bold; min-width: 40px; text-decoration: none; border: 0px; color: white; display: block; height: max-content; margin: 10px 0px; width: max-content; background-position: 10px 12px; background-size: 28px; font-size: 25px; padding: 10px 10px 10px 45px;">Pay with PeachPay</a>
 
 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADAAQAAAAB6p1GqAAAB3UlEQVR4nO1WUaqkMBBMXgueSYgk4KkGhOFBwFMJLQl4poE0vkrmc9f90WZ5MDKMhIKUnaqu9Ndx8nyZk+cDfIDfDIi1NmxjkPaqCwVyfxSZUqRijKuLC1udAmIDrXbe+pKJpZWhcog+sRmCk3B9q1NAHnaKtIY/gJs46OD6/TJFQ4yFBsdmO/w7NzyChPfibg5CMPPOKCHmPdXF/RzVWH3Z1/47mGHsTL6y1QkgI6wbpJPZ0ZI4X/rcM2CH5NvsmRLaT2YNDkLrFR8lZBBsM3r9fg6wvJqxzLuKLdzPIWGYSvawltmXZYnE93MY6ddpHWuQOOTJpa3+ARD7pRoKv2FuNAq+Gi3ujzk3TVTOygwTUtf4CL37hTV6EKJvgY60Pgvkn1V6EEGV4hA2pAgdCzsVPeCmRy2Fa66MnYYeOCroQWkNzhHvq0q2M9V93y3uX09W4DC09oXYZbHTitDS0EO6VgelxNIhrDT0oOL8y44WrvXsS4tElTnRp+bfWUJtRZU50eQBroWtiHObsRTmRAw+RyqYRrfOeVbgMO0uNEOXMY4aTNc6HDDTNhU0PMqo+agxJyJ7n01rly9/7l+BOhrmLI/++xkzRQ3N25yII0oF7XEUp3NHfYAP8L+BH792AHgszyfSAAAAAElFTkSuQmCC" style="width: 170px;">
 
