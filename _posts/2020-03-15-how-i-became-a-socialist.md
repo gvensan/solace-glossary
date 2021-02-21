@@ -17,6 +17,7 @@ tags:
   - West Coast
   - USA
   - America
+  - United States
 image: 
   path: /assets/images/hibas large.jpg
   thumbnail: /assets/images/hibas thumb.png
