@@ -2,6 +2,19 @@
 layout: post
 title: #FreeAssange
 excerpt: "The US Justice Dept attacks freedom of the press."
+categories:
+  - Articles
+tags:
+  - Capitalism
+  - Whistleblowers
+  - Freedom of the Press
+  - Julian Assange
+  - USA
+  - United States
+  - America
+  - UK
+  - United Kingdom
+  - England
 image: 
   path: /assets/images/fa large.png
   thumbnail: /assets/images/fa thumb.png
