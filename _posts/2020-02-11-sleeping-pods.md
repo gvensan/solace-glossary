@@ -2,6 +2,18 @@
 layout: post
 title: Sleeping Pods
 excerpt: "Capital encroaches on comfort even further."
+categories:
+  - Articles
+tags:
+  - Capitalism
+  - San Francisco
+  - SF
+  - Bay Area
+  - California
+  - Southwest
+  - West Coast
+  - USA
+  - America
 image: 
   path: /assets/images/sp large.jpg
   thumbnail: /assets/images/sp thumb.png
