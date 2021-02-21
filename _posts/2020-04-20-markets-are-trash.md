@@ -2,6 +2,18 @@
 layout: post
 title: Markets Are Trash
 excerpt: "Production for profit is inherently inefficient."
+categories:
+  - Articles
+tags:
+  - Capitalism
+  - COVID
+  - Las Vegas
+  - Nevada
+  - Southwest
+  - West Coast
+  - USA
+  - America
+  - United States
 image: 
   path: /assets/images/mat large.jpg
   thumbnail: /assets/images/mat thumb.png
