@@ -2,6 +2,21 @@
 layout: post
 title: How I Became A Socialist
 excerpt: "The story of my journey to socialism."
+categories:
+  - Articles
+tags:
+  - Socialism
+  - Occupy
+  - Zeitgeist
+  - WSPUS
+  - WSM
+  - SPGB
+  - Las Vegas
+  - Nevada
+  - Southwest
+  - West Coast
+  - USA
+  - America
 image: 
   path: /assets/images/hibas large.jpg
   thumbnail: /assets/images/hibas thumb.png
