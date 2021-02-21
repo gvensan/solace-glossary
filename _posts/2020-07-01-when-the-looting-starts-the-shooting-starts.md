@@ -2,6 +2,16 @@
 layout: post
 title: "'When the looting starts, the shooting starts.'"
 excerpt: "Capitalism chooses property over people."
+categories:
+  - Articles
+tags:
+  - Capitalism
+  - Black Lives Matter
+  - BLM
+  - George Floyd
+  - USA
+  - United States
+  - America
 image: 
   path: /assets/images/wtlstss large.jpg
   thumbnail: /assets/images/wtlstss thumb.png
