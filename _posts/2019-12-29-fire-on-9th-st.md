@@ -12,6 +12,7 @@ tags:
   - Southwest
   - USA
   - America
+  - United States
 image: 
   path: /assets/images/fo9 large.jpg
   thumbnail: /assets/images/fo9 thumb.png
