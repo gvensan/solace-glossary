@@ -2,6 +2,11 @@
 layout: post
 title: Revolution, Not Reform
 excerpt: "My first pamphlet."
+categories:
+  - Pamphlets
+tags:
+  - Socialism
+  - Capitalism
 image: 
   path: /assets/images/rnr/RNR.jpg
   thumbnail: /assets/images/rnr/400x200.png
