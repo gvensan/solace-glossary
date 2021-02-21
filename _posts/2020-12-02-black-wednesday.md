@@ -2,6 +2,19 @@
 layout: post
 title: Black Wednesday
 excerpt: "The state places property over people once again."
+categories:
+  - Articles
+tags:
+  - Capitalism
+  - Homelessness
+  - Los Angeles
+  - LA
+  - California
+  - West Coast
+  - Southwest
+  - USA
+  - United States
+  - America
 image: 
   path: /assets/images/bw large.jpeg
   thumbnail: /assets/images/bw thumb.png
