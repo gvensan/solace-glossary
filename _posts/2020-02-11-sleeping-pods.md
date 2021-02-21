@@ -14,6 +14,7 @@ tags:
   - West Coast
   - USA
   - America
+  - United States
 image: 
   path: /assets/images/sp large.jpg
   thumbnail: /assets/images/sp thumb.png
