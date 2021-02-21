@@ -14,7 +14,7 @@ I was briefly involved in Occupy Las Vegas when I was 18 and got more into "soci
 
 I joined The World Socialist Party of the United States a few months later, around October 2018, which I'm still a member of to this day. I also currently edit our quarterly magazine, The World Socialist.
 
-Besides angrily writing about political issues that strike a cord for me, i also enjoy making music, playing video games, watching documentaries, and consuming soft drugs.
+Besides angrily writing about political issues that strike a cord for me, i also enjoy reading, making music, playing video games, watching documentaries, and consuming soft drugs.
 
 Feel free to contact me if you wanna know any more and subscribe to my email list to keep up with my drunken ramblings.
 
