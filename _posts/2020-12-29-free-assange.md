@@ -25,6 +25,9 @@ comments: true
 published: true
 share: true
 permalink: free-assange
+preview: https://github.com/JordanRLevi/jordanrlevi.github.io/blob/master/assets/images/fa%20large.png
+twitter:
+  site: "@SwamiNetero"
 ---
 Julian Assange’s extradition hearings have been a brazen example of the US government’s corruption. Rather than honoring a real journalist for exposing the war crimes of our military-industrial complex, many government officials instead call for Assange to be punished for heroically informing their constituents of these atrocities. Of course, that’d only come as a surprise to someone naive enough to think most government officials have their constituents’ best interest at heart, rather than the best interest of corporations such as those involved in our military-industrial complex, represented by lobbyists who grease the palms of those same government officials. If anyone was still under that illusion before, I hope this case will be their much-needed wake-up call.
 
