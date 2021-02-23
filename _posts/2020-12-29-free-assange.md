@@ -26,6 +26,12 @@ published: true
 share: true
 permalink: free-assange
 ---
+<meta property="twitter:card" content="summary_large">
+<meta property="twitter:site" content="@SwamiNetero">
+<meta property="twitter:description" content="The US Justice Dept attacks freedom of the press.">
+<meta property="twitter:title" content="#FreeAssange">
+<meta property="twitter:image" content="https://github.com/JordanRLevi/jordanrlevi.github.io/blob/master/assets/images/fa%20large.png">
+
 Julian Assange’s extradition hearings have been a brazen example of the US government’s corruption. Rather than honoring a real journalist for exposing the war crimes of our military-industrial complex, many government officials instead call for Assange to be punished for heroically informing their constituents of these atrocities. Of course, that’d only come as a surprise to someone naive enough to think most government officials have their constituents’ best interest at heart, rather than the best interest of corporations such as those involved in our military-industrial complex, represented by lobbyists who grease the palms of those same government officials. If anyone was still under that illusion before, I hope this case will be their much-needed wake-up call.
 
 I’m sure many of you reading this are familiar with Julian Assange, but for those that aren’t, I’ll do my best to bring you up to speed. Assange is credited as being the founder of WikiLeaks, which is easily the most prominent news leaks website to have existed so far. Though their website launched on October 4, 2006, they didn’t post their first document until about two months later, in December. They had a few high-profile leaks prior to 2010, but they didn’t become a household name until April 5 of that year, when they released a video they titled <i>Collateral Murder</i>, in which a crew of US Army pilots flying Apache helicopters fire on a group of civilians, including two Reuters journalists, both of whom died as a result.<sup>[[1](https://en.wikipedia.org/wiki/July_12,_2007,_Baghdad_airstrike)]</sup> In the week following the video’s release, WikiLeaks became the search term with the most significant growth worldwide during that week, according to Google Insights.<sup>[[2](https://web.archive.org/web/20110827012515/http://www.independent.co.uk/news/media/current-google-insights-trends-wikileaks-posts-clasified-military-video-masters-1942629.html)]</sup>
