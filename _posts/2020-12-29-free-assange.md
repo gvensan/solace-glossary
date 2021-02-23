@@ -26,7 +26,7 @@ published: true
 share: true
 permalink: free-assange
 ---
-<meta property="twitter:card" content="summary_large">
+<meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:site" content="@SwamiNetero">
 <meta property="twitter:description" content="The US Justice Dept attacks freedom of the press.">
 <meta property="twitter:title" content="#FreeAssange">
