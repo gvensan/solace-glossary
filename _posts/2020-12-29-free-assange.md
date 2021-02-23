@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #FreeAssange
+title: "#FreeAssange"
 excerpt: "The US Justice Dept attacks freedom of the press."
 categories:
   - Articles
