@@ -3,7 +3,7 @@ title: About
 layout: page
 permalink: /about/
 ---
-
+![Twitter Card summary large image screenshot]({{ site.url }}/assets/images/IMG_7376.jpg)
 ![no-alignment]({{ '/assets/images/IMG_7376.jpg' | absolute_url }})
 
 Waddup, my name's Jordan Levi and I hate capitalism.
