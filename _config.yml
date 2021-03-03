@@ -36,7 +36,7 @@ google_fonts:
     weights: "300,400,500,600,700"
   - name: "DM Mono"
     weights: "300,300i,400,400i,500,500i"
-google_analytics: 261779179
+google_analytics: "UA-107282718-2"
 disqus:
   shortname: jordanrlevi-github-io
 twitter:
