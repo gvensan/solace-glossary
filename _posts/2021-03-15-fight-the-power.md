@@ -103,3 +103,8 @@ The engine of capitalism is private property and the fuel is profit. As long as 
 <sup>[23]</sup> [https://en.wikipedia.org/wiki/Regulatory_capture](https://en.wikipedia.org/wiki/Regulatory_capture)
 
 <sup>[24]</sup> [https://www.worldsocialism.org/spgb/socialist-standard/1948/1940s/no-526-june-1948/finances-nationalisation/](https://www.worldsocialism.org/spgb/socialist-standard/1948/1940s/no-526-june-1948/finances-nationalisation/)
+
+
+<hr>
+
+Originally published at <a href="url">http://www.wspus.org/2021/03/fight-the-power/</a>.
