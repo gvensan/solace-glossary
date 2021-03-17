@@ -20,7 +20,7 @@ locale: en-US
 title: "Jordan Levi"
 description: "The Angry Impossibilist."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://jordanrlevi.github.io"
+url: "https://jordanlevi.red"
 logo: "/assets/images/Github Logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
