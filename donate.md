@@ -1,8 +1,7 @@
 ---
 title: Donate
 layout: page
-image:
-  thumbnail: /assets/images/Donate.png
+image: /assets/images/Donate.png
 excerpt: "All donations are appreciated."
 permalink: /donate/
 ---
