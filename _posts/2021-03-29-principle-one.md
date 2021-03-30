@@ -13,7 +13,7 @@ tags:
 image: 
   path: /assets/images/principle-one-large.jpg
   thumbnail: /assets/images/principle-one-thumb.png
-  caption: 
+  caption: Photo by <a href="https://unsplash.com/@wesleyphotography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Wesley Tingey</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 date: 2021-03-29 21:58:00 +0800
 author: Jordan Levi
 comments: true
