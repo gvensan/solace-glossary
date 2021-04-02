@@ -45,7 +45,7 @@ most if not all of these are listed at this link.
 
 <a href="url">https://www.paypal.me/SwamiNetero</a>
 
-<img src="/assets/images/PayPal.jpg" width="394" height="723" />
+<img src="/assets/images/PayPal.jpg" width="197" />
 
 #### CashApp
 
