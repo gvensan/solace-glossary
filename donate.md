@@ -16,6 +16,7 @@ The only recurring donations platform I currently use is LiberaPay. I don't have
 <script src="https://liberapay.com/JordanLevi/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/JordanLevi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
+
 ## One Time
 
 ### Preferred:
