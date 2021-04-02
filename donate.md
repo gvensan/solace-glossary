@@ -11,7 +11,7 @@ permalink: /donate/
 
 The only recurring donations platform I currently use is LiberaPay. I don't have any exclusive content I can offer right now, so rather than go the Patreon route and offer different rewards for different tiers of donations, I prefer LiberaPay cuz each person can pledge a custom amount. I also like it, because it's free and open source. You need to make an account to donate, but it should take less than five minutes to set up. While I currently don't have any perks to give you in return, any and all donations are greatly appreciated.
 
-[https://liberapay.com/JordanLevi/[(https://liberapay.com/JordanLevi/)
+[https://liberapay.com/JordanLevi/](https://liberapay.com/JordanLevi/)
 
 <script src="https://liberapay.com/JordanLevi/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/JordanLevi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
@@ -35,9 +35,9 @@ I like PeachPay, because it's free, open source, and donors don't need to make a
 
 most if not all of these are listed at this link.
 
-[coindrop.to/jordanlevi](coindrop.to/jordanlevi)
+[https://coindrop.to/jordanlevi](https://coindrop.to/jordanlevi)
 
-<a href="https://coindrop.to/jordanlevi" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
+<a href="https://coindrop.to/jordanlevi" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></a>
 
 ![no-alignment]({{ '/assets/images/Coindrop.to.png' | absolute_url }})
 
