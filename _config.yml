@@ -18,7 +18,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Jordan Levi"
-description: "The Angry Impossibilist."
+description: "Your angry neighborhood impossibilist."
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://jordanlevi.red"
 logo: "/assets/images/Github Logo.png"
