@@ -45,7 +45,7 @@ most if not all of these are listed at this link.
 
 <a href="url">https://www.paypal.me/SwamiNetero</a>
 
-![no-alignment]({{ '/assets/images/PayPal.jpg' | absolute_url }})
+<img src="/assets/images/PayPal.jpg" width="788" height="1446" />
 
 #### CashApp
 
