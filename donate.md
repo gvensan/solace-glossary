@@ -11,7 +11,7 @@ permalink: /donate/
 
 The only recurring donations platform I currently use is LiberaPay. I don't have any exclusive content I can offer right now, so rather than go the Patreon route and offer different rewards for different tiers of donations, I prefer LiberaPay cuz each person can pledge a custom amount. I also like it, because it's free and open source. You need to make an account to donate, but it should take less than five minutes to set up. While I currently don't have any perks to give you in return, any and all donations are greatly appreciated.
 
-<a href="url">https://liberapay.com/JordanLevi/</a>
+[https://liberapay.com/JordanLevi/[(https://liberapay.com/JordanLevi/)
 
 <script src="https://liberapay.com/JordanLevi/widgets/button.js"></script>
 <noscript><a href="https://liberapay.com/JordanLevi/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
@@ -23,7 +23,7 @@ The only recurring donations platform I currently use is LiberaPay. I don't have
 #### PeachPay
 I like PeachPay, because it's free, open source, and donors don't need to make an account to donate. I also opted to deduct any transaction fees out of what I'm sent, so if you only have $20 to spare, you won't have to spend a penny more than that. It also allows donations of cryptocurrency.
 
-<a href="url">https://www.peachpay.me/jordanlevi</a>
+[https://www.peachpay.me/jordanlevi](https://www.peachpay.me/jordanlevi)
 
 <a data-v-32df0330="" id="preview-btn" target="_blank" href="https://www.peachpay.me/jordanlevi" style="background-color: rgb(255, 124, 113); background-image: url(&quot;https://www.peachpay.me/packs/peachpay-lg-9ec30a767ce1c6bf1a6e0f6f07ddd887.png&quot;) !important; background-repeat: no-repeat; border-radius: 2px; font-family: &quot;Avenir Next LT Pro Regular&quot;, &quot;Open Sans&quot;, sans-serif; font-weight: bold; min-width: 40px; text-decoration: none; border: 0px; color: white; display: block; height: max-content; margin: 10px 0px; width: max-content; background-position: 10px 12px; background-size: 28px; font-size: 25px; padding: 10px 10px 10px 45px;">Pay with PeachPay</a>
 
@@ -35,7 +35,7 @@ I like PeachPay, because it's free, open source, and donors don't need to make a
 
 most if not all of these are listed at this link.
 
-<a href="url">coindrop.to/jordanlevi</a>
+[coindrop.to/jordanlevi](coindrop.to/jordanlevi)
 
 <a href="https://coindrop.to/jordanlevi" target="_blank"><img src="https://coindrop.to/embed-button.png" style="border-radius: 10px; height: 57px !important;width: 229px !important;" alt="Coindrop.to me"></img></a>
 
@@ -43,27 +43,27 @@ most if not all of these are listed at this link.
 
 ####  Paypal
 
-<a href="url">https://www.paypal.me/SwamiNetero</a>
+[https://www.paypal.me/SwamiNetero](https://www.paypal.me/SwamiNetero)
 
 <img src="/assets/images/PayPal.jpg" width="296" />
 
 #### CashApp
 
-<a href="url">https://cash.app/$SwamiNetero</a>
+[https://cash.app/$SwamiNetero](https://cash.app/$SwamiNetero)
 
-![no-alignment]({{ '/assets/images/CashApp.png' | absolute_url }})
+<img src="/assets/images/CashApp.png" width="285" />
 
 #### Venmo
 
-<a href="url">https://venmo.com/code?user_id=2481504638730240785</a>
+[https://venmo.com/code?user_id=2481504638730240785](https://venmo.com/code?user_id=2481504638730240785)
 
-![no-alignment]({{ '/assets/images/Venmo.png' | absolute_url }})
+<img src="/assets/images/Venmo.png" width="253" />
 
 ####  Google Pay
 
-<a href="url">https://gpay.app.goo.gl/pay-YX3T4lUTEwc</a>
+[https://gpay.app.goo.gl/pay-YX3T4lUTEwc](https://gpay.app.goo.gl/pay-YX3T4lUTEwc)
 
-![no-alignment]({{ '/assets/images/GooglePay.jpg' | absolute_url }})
+<img src="/assets/images/GooglePay.jpg" width="240" />
 
 #### Zelle
 
