@@ -7,7 +7,7 @@ permalink: /about/
 
 Waddup, my name's Jordan Levi and I hate capitalism.
 
-I was born in Oakland, California on June 5, 1993 and moved to Las Vegas, Nevada in April of 2000. I grew up broke to say the least, but I didn't really get into politics 'til I got a little older.
+I was born in Oakland, California on June 5, 1993 and moved to Las Vegas, Nevada in April of 2000. I grew up broke to say the least, but that didn't really motivate me  to get into politics 'til I got a little older.
 
 I was briefly involved in Occupy Las Vegas when I was 18 and got more into "socialism" via Bernie Sanders when I was 22, but I wouldn't say I became an actual socialist 'til I first read some of Karl Marx's work when I was 25.
 
