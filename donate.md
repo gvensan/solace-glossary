@@ -44,15 +44,15 @@ most if not all of these are listed at this link.
 
 ####  Paypal
 
-[https://www.paypal.me/SwamiNetero](https://www.paypal.me/SwamiNetero)
+[https://www.paypal.me/JordanLeviLV](https://www.paypal.me/JordanLeviLV)
 
 <img src="/assets/images/PayPal.jpg" width="296" />
 
 #### CashApp
 
-[https://cash.app/$SwamiNetero](https://cash.app/$SwamiNetero)
+[https://cash.app/$JordanLeviLV](https://cash.app/$JordanLeviLV)
 
-<img src="/assets/images/CashApp.png" width="285" />
+<img src="/assets/images/CashAppNew.png" width="285" />
 
 #### Venmo
 
