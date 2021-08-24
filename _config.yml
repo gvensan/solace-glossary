@@ -108,8 +108,8 @@ author:
     - title: Snapchat
       url: https://www.snapchat.com/add/swaminetero
       icon: fab fa-snapchat-ghost
-    - title: SingleLink
-      url: https://app.singlelink.co/u/JordanLevi
+    - title: Main Links Page
+      url: https://jordanlevi.link/
       icon: fas fa-link
 
 # Footer Links
@@ -126,8 +126,8 @@ footer_links:
     - title: Snapchat
       url: https://www.snapchat.com/add/swaminetero
       icon: fab fa-snapchat-ghost
-    - title: SingleLink
-      url: https://app.singlelink.co/u/JordanLevi
+    - title: Main Links Page
+      url: https://jordanlevi.link/
       icon: fas fa-link
     
 # Copyright
