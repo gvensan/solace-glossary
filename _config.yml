@@ -20,7 +20,7 @@ locale: en-US
 title: "Solace"
 description: "InShorts: Everything you need to know about Solace"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://gvensan.github.io/solace-glossary/"
+url: "https://gvensan.github.io/"
 logo: "/assets/images/solace-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
