@@ -17,11 +17,11 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Jordan Levi"
-description: "Your angry neighborhood impossibilist."
+title: "Solace"
+description: "InShorts: Everything you need to know about Solace"
 baseurl: # the subpath of your site, e.g. "/blog"
-url: "https://jordanlevi.red"
-logo: "/assets/images/Github Logo.png"
+url: "https://gvensan.github.io/solace-glossary/"
+logo: "/assets/images/solace-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 265
