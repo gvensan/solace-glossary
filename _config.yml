@@ -37,10 +37,10 @@ google_fonts:
   - name: "DM Mono"
     weights: "300,300i,400,400i,500,500i"
 google_analytics: "UA-107282718-2"
-disqus:
-  shortname: jordanlevi-red
-twitter:
-  username: swaminetero
+# disqus:
+#   shortname: jordanlevi-red
+# twitter:
+#   username: swaminetero
 
 # Liquid
 liquid:
