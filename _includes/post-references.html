@@ -1,0 +1,9 @@
+<div><h2 class="page-taxonomies-title">{{ site.data.text[site.locale].reference_links | default: 'References' }}</h2></div>
+<ul class="page-references">
+  {% assign references = page.references | sort %}
+  {%- for reference in references -%}
+    <li class="page-reference">
+      <a target="_blank" class="p-category" href="{{ reference }}" title="{{ reference }}">{{ reference }}</a><br/>
+    </li>
+  {%- endfor- %}
+</ul>

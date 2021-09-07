@@ -97,38 +97,44 @@ author:
   email: swamintero@gmail.com
   links:
     - title: Twitter
-      url: https://twitter.com/JordanLeviLV
+      url: https://twitter.com/solacedotcom
       icon: fab fa-twitter
     - title: Instagram
-      url: https://www.instagram.com/jordanlevilv/
+      url: https://www.instagram.com/solacedotcom/
       icon: fab fa-instagram
     - title: Facebook
-      url: https://www.facebook.com/JordanLeviLV
+      url: https://www.facebook.com/solacedotcom
       icon: fab fa-facebook-f
-    - title: Snapchat
-      url: https://www.snapchat.com/add/swaminetero
-      icon: fab fa-snapchat-ghost
-    - title: Main Links Page
-      url: https://jordanlevi.link/
+    - title: Youtube
+      url: https://www.youtube.com/solacedotcom
+      icon: fab fa-youtube
+    - title: Solace Community
+      url: https://solace.community
+      icon: fas fa-users
+    - title: Solace.com
+      url: https://solace.com/
       icon: fas fa-link
 
 # Footer Links
 footer_links:
     - title: Twitter
-      url: https://twitter.com/JordanLeviLV
+      url: https://twitter.com/solacedotcom
       icon: fab fa-twitter
     - title: Instagram
-      url: https://www.instagram.com/jordanlevilv/
+      url: https://www.instagram.com/solacedotcom/
       icon: fab fa-instagram
     - title: Facebook
-      url: https://www.facebook.com/JordanLeviLV
+      url: https://www.facebook.com/solacedotcom
       icon: fab fa-facebook-f
-    - title: Snapchat
-      url: https://www.snapchat.com/add/swaminetero
-      icon: fab fa-snapchat-ghost
-    - title: Main Links Page
-      url: https://jordanlevi.link/
+    - title: Youtube
+      url: https://www.youtube.com/solacedotcom
+      icon: fab fa-youtube
+    - title: Solace Community
+      url: https://solace.community
+      icon: fas fa-users
+    - title: Solace.com
+      url: https://solace.com/
       icon: fas fa-link
     
-# Copyright
-copyright: <p xmlns:cc="http://creativecommons.org/ns#" >All works are marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a> unless stated otherwise.</p>
+# Powered By
+copyright: Powered by <a href="http://jekyllrb.com/">Jekyll</a> using the <a href="https://github.com/mmistakes/so-simple-theme">So Simple Theme</a>

@@ -1,0 +1,36 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<ul class="taxonomy-index" style="grid-template-columns: repeat(30, 1fr)">
+  <!-- {%- assign lang = site.locale | slice: 0,2 | default: "en" -%} -->
+
+  {% assign postsByAcronym = site.posts | sort: "acronym" %}
+  {% assign postsInAlphabet = postsByAcronym | group_by_exp: 'post', 'post.acronym | slice: 0,1' %}
+
+  {% for letter in postsInAlphabet %}
+    <li>
+      <a href="#{{ letter.name }}">
+        <strong>{{ letter.name }}</strong> <span class="taxonomy-count" style="font-size: 12px">{{ letter.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+<!-- {% assign postsByletter = site.posts | group_by_exp: 'post', 'post.acronym | slice: 0,1' %} -->
+{% for letter in postsInAlphabet %}
+  <section id="{{ letter.name }}" class="taxonomy-section">
+    <h2 class="taxonomy-title">{{ letter.name }}</h2>
+    <div class="entries-{{ page.entries_layout | default: 'list' }}">
+      {% for entry in letter.items %}
+        <div>
+          <h3>{{ entry.acronym }}</h3>
+          <div>{% include entry.html %}</div>
+        </div>
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}

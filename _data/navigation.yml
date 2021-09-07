@@ -2,13 +2,17 @@
 
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Posts
-  url: /posts/
+# - title: Posts
+#   url: /posts/
 - title: Categories
   url: /categories/
-- title: Tags
-  url: /tags/
+# - title: Tags
+#   url: /tags/
+- title: Glossary
+  url: /glossary/
+- title: Acronyms
+  url: /acronyms/
 - title: Search
   url: /search/
+- title: About
+  url: /about/

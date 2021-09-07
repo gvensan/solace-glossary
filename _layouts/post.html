@@ -3,32 +3,35 @@ layout: default
 ---
 
 <main id="main" class="main-content" aria-label="Content">
-  <article class="h-entry">
-    {% include page-image.html %}
+  <article class="h-entry" style="min-height: calc(50vh);">
+    <!-- {% include page-image.html %} -->
     <div class="page-wrapper">
-      <header class="page-header">
-        {% assign title = page.title | markdownify | strip_html %}
-        {% if page.link %}
-          <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
-        {% else %}
-          <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
-        {% endif %}
-      </header>
-
       <div class="page-sidebar">
-        {% include page-author.html %}
+        <!-- {% include page-author.html %} -->
         {% include page-categories.html %}
         {% include page-tags.html %}
+        {% include page-acronyms.html %}
       </div>
 
       <div class="page-content">
+        <header class="page-header">
+          {% assign title = page.title | markdownify | strip_html %}
+          {% if page.link %}
+            <h1 id="page-title" class="page-title p-name"><a href="{{ page.link }}">{{ title }} <span class="link-arrow">&rarr;</span></a></h1>
+          {% else %}
+            <h1 id="page-title" class="page-title p-name">{{ title }}</h1>
+          {% endif %}
+        </header>
+
         <div class="e-content">
-          {{ content }}
+          {{ page.excerpt }}
         </div>
 
-        {% if page.share %}
-          {% include social-share.html %}
-        {% endif %}
+        <div class="page-header">
+          {% if page.references %}
+            {% include post-references.html %}
+          {% endif %}
+        </div>
 
         {% if site.disqus.shortname %}
           {% include disqus-comments.html %}
