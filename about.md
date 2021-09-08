@@ -1,20 +1,19 @@
 ---
-title: About
 layout: page
 permalink: /about/
 ---
-![no-alignment]({{ '/assets/images/IMG_7376.jpg' | absolute_url }})
+Solace enables the smart movement of data so innovators can focus on doing what they do best—whether that’s leading IT organizations from the C-suite, architecting systems to meet ever-changing business requirements, or developing kickass enterprise, IoT and mobile applications.
 
-Waddup, my name's Jordan Levi and I hate capitalism.
+Here is an attempt to consolidate relevant Solace and related technology terms in one place that can serve as a reference. This will ensure that all stakeholders (business and technical) understand what is meant by the terminology, acronyms, and phrases used in Solace.  We will continue to maintain this as the product and usecases evolve.            
 
-I was born in Oakland, California on June 5, 1993 and moved to Las Vegas, Nevada in April of 2000. I grew up broke to say the least, but that didn't really motivate me  to get into politics 'til I got a little older.
+<a href="http://bit.ly/solace-community" target="_blank">bit.ly/solace-community</a>{:style="float: right"}<br/>
+Feel free to checkout solace community.         
+<a href="http://bit.ly/solace-community" target="_blank"><img src="/assets/images/solace-community-qrcode.png" width="250"/>
+</a>{:style="float: right"}            
+* Expert forum to ask questions and get timely answers from qualified peers and Solace staff               ​     
+* Early access to new products, APIs, features, and technical learning  (demos, codelabs etc.), so you can put new tech and tips to work, immediately.* Insider visibility to our product roadmap, and the ability to influence it.​         
+* Opportunity to connect with peers in your industry, working on similar projects, with similar technology, patterns and frameworks.        
+* Exclusive swag, event invites, speaking opportunities, and more.      
+{:style="clear: left"}
 
-I was briefly involved in Occupy Las Vegas when I was 18 and got more into "socialism" via Bernie Sanders when I was 22, but I wouldn't say I became an actual socialist 'til I first read some of Karl Marx's work when I was 25.
-
-I joined The World Socialist Party of the United States a few months later, around October 2018, which I'm still a member of to this day. I also currently edit our quarterly magazine, The World Socialist.
-
-Besides angrily writing about political issues that strike a cord for me, i also enjoy reading, making music, playing video games, watching documentaries, and consuming soft drugs.
-
-Feel free to contact me if you wanna know any more and subscribe to my email list to keep up with my drunken ramblings.
-
-Thanks for reading!
+Thanks for visiting!
