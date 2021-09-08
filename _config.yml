@@ -92,9 +92,9 @@ defaults:
 
 # Site Author
 author:
-  name: Jordan Levi
-  picture: /assets/images/AuthorLogo.png
-  email: swamintero@gmail.com
+  name: Solace
+  # picture: /assets/images/AuthorLogo.png
+  # email: swamintero@gmail.com
   links:
     - title: Twitter
       url: https://twitter.com/solacedotcom
