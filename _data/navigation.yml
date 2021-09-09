@@ -1,9 +1,7 @@
 # Sample site navigation bar links
 
-- title: Home
+- title: About
   url: /about/
-# - title: Posts
-#   url: /posts/
 - title: Categories
   url: /categories/
 - title: Glossary
