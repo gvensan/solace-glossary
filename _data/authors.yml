@@ -2,22 +2,25 @@
 # Remove file or replace with your own
 
 Jordan Levi:
-  name: Jordan Levi
-  picture: /assets/images/AuthorLogo.png
-  twitter: swaminetero
+  name: Solace
+  # picture: /assets/images/AuthorLogo.png
+  # email: swamintero@gmail.com
   links:
     - title: Twitter
-      url: https://twitter.com/JordanLeviLV
+      url: https://twitter.com/solacedotcom
       icon: fab fa-twitter
     - title: Instagram
-      url: https://www.instagram.com/jordanlevilv/
+      url: https://www.instagram.com/solacedotcom/
       icon: fab fa-instagram
     - title: Facebook
-      url: https://www.facebook.com/JordanLeviLV
+      url: https://www.facebook.com/solacedotcom
       icon: fab fa-facebook-f
-    - title: Snapchat
-      url: https://www.snapchat.com/add/swaminetero
-      icon: fab fa-snapchat-ghost
-    - title: Main Links Page
-      url: https://jordanlevi.link/
+    - title: Youtube
+      url: https://www.youtube.com/solacedotcom
+      icon: fab fa-youtube
+    - title: Solace Community
+      url: https://solace.community
+      icon: fas fa-users
+    - title: Solace.com
+      url: https://solace.com/
       icon: fas fa-link
