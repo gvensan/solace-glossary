@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Egress Topic ACL"
+title: "Ingress Topic ACL"
 excerpt: "An Access Control List (ACL) is a list of topic filters and correlated actions used to improve security. It blocks or allows users to access specific resources. <br/><br/>ACLs can be applied not only to ingress (subscribe), but also to egress (publish) interfaces. The purpose of ingress (inbound) and egress (outbound) ACL is to specify the topics that are allowed to be subscribed or published."
 categories:
   - "Message Exchange"
@@ -11,5 +11,5 @@ author: gvensan
 comments: true
 published: true
 share: true
-permalink: egress-topic-acl
+permalink: ingress-topic-acl
 ---

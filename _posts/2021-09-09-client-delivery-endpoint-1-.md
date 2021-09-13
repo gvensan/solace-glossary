@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Client Delivery Endpoint"
+title: "Client Delivery Endpoint (1)"
 excerpt: "A Client Delivery Endpoint represents an event queue, a durable topic endpoint, or a direct client connection with associated subscriptions for a direct messaging class of service."
 acronym: "CDE"
 categories:
@@ -14,5 +14,5 @@ author: gvensan
 comments: true
 published: true
 share: true
-permalink: client-delivery-endpoint
+permalink: client-delivery-endpoint-1-
 ---

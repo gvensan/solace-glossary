@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "autodetect-decoder-stream": "^2.0.0",
+    "csv-reader": "^1.0.8",
+    "moment": "^2.29.1",
+    "read-excel-file": "^5.2.9"
+  }
+}

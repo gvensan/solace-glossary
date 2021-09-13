@@ -38,9 +38,12 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
-$serif-font-family: "Lora", serif !default;
-$sans-serif-font-family: "Source Sans Pro", sans-serif !default;
-$monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
+// $serif-font-family: "Lora", serif !default;
+// $sans-serif-font-family: "Source Sans Pro", sans-serif !default;
+// $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
+$serif-font-family: "open-sans",Tahoma,Verdana,sans-serif !default;
+$sans-serif-font-family: "open-sans",Tahoma,Verdana,sans-serif !default;
+$monospace-font-family: "open-sans",Tahoma,Verdana,sans-serif !default;
 
 $base-font-family: $sans-serif-font-family !default;
 $headline-font-family: $sans-serif-font-family !default;
