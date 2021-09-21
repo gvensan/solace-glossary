@@ -65,7 +65,8 @@ tag_archive_path: "/tags/#"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - buildposts/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Cloud Platform"
-excerpt: "Solace PubSub+ Cloud supports GCP"
+excerpt: "Solace PubSub+ Cloud supports GCP."
 acronym: "GCP"
 categories:
   - "Deployment"

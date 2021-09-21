@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Multi Node Routing"
-excerpt: "Multi-Node Routing (MNR) allows multiple Solace PubSub+ event brokers to be networked together so that Direct messages published from clients connected to one event broker can be delivered to clients connected to other event brokers"
+excerpt: "Multi-Node Routing (MNR) allows multiple Solace PubSub+ event brokers to be networked together so that Direct messages published from clients connected to one event broker can be delivered to clients connected to other event brokers."
 acronym: "MNR"
 categories:
   - "Message Delivery"

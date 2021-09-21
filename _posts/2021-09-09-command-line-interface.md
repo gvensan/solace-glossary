@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Command Line Interface"
-excerpt: "The Solace Command Line Interface (CLI) is a text-based interface for configuring and monitoring Solace event brokers"
+excerpt: "The Solace Command Line Interface (CLI) is a text-based interface for configuring and monitoring Solace event brokers."
 acronym: "CLI"
 references:
   - "https://docs.solace.com/Solace-CLI/Using-Solace-CLI.htm"

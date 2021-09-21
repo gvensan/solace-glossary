@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ack message spooled"
-excerpt: "While processing a Guaranteed Message, Solace PubSub+ event broker delivers an acknowledgment to the publisher that the message has been successfully spooled"
+excerpt: "While processing a Guaranteed Message, Solace PubSub+ event broker delivers an acknowledgment to the publisher that the message has been successfully spooled."
 categories:
   - "Message Exchange"
 references:

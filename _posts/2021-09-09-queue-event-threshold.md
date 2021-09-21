@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Queue Event Threshold"
-excerpt: "Following event thresholds can be set for existing, durable queues on the given Message VPN:<br/>- Bind Count Thresholds<br/>- Reject Low Priority Message Limit Thresholds<br/>- Spool Usage Thresholds"
+excerpt: "Following event thresholds can be set for existing, durable queues on the given Message VPN:<br/>- Bind Count Thresholds<br/>- Reject Low Priority Message Limit Thresholds<br/>- Spool Usage Thresholds."
 categories:
   - "Message Exchange"
 references:

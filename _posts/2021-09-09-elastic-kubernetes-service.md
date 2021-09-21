@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Elastic Kubernetes Service"
-excerpt: "Solace PubSub+ Cloud supports Amazon EKS"
+excerpt: "Solace PubSub+ Cloud supports Amazon EKS."
 acronym: "EKS"
 categories:
   - "Deployment"

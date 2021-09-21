@@ -14,5 +14,5 @@ published: true
 share: true
 permalink: event-driven-architecture
 ---
-driven-architecture
+-driven-architecture
 ---

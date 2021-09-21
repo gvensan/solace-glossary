@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Messaging Client"
-excerpt: "Client applications that connect to the event broker services to publish and subscribe to the messaging and events are referred to as 'Messaging Clients'"
+excerpt: "Client applications that connect to the event broker services to publish and subscribe to the messaging and events are referred to as 'Messaging Clients'."
 categories:
   - "Overview"
 references:

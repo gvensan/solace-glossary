@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quality of Service"
-excerpt: "Message QoS"
+excerpt: "Message QoS."
 acronym: "QoS"
 references:
   - "https://docs.solace.com/Open-APIs-Protocols/AMQP/QoS.htm"

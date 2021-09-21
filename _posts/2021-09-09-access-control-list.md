@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Access Control List"
-excerpt: "ACLs are used to control which clients may connect to which Message VPNs, and which topics clients are allowed to publish and subscribe to in their Message VPN"
+excerpt: "ACLs are used to control which clients may connect to which Message VPNs, and which topics clients are allowed to publish and subscribe to in their Message VPN."
 acronym: "ACL"
 categories:
   - "Security"

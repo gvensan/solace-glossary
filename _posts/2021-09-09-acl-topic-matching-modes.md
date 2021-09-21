@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ACL Topic Matching Modes"
-excerpt: "Solace event broker exempts special subscriptions (internal) when doing ACL enforcement and the mode of enforcement is set by setting the 'ACL Topic Matching Mode'"
+excerpt: "Solace event broker exempts special subscriptions (internal) when doing ACL enforcement and the mode of enforcement is set by setting the 'ACL Topic Matching Mode'."
 categories:
   - "Security"
 references:

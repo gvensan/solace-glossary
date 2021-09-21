@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amazon Machine Image"
-excerpt: "Solace PubSub+ Standard and Enterprise Edition are available as AMI pckages for use on AWS Cloud"
+excerpt: "Solace PubSub+ Standard and Enterprise Edition are available as AMI pckages for use on AWS Cloud."
 acronym: "AMI"
 categories:
   - "Deployment"

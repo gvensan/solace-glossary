@@ -98,7 +98,7 @@
                 '<a href="' + store[ref].url + '">' + store[ref].title + '</a>' +
               '</h3>' +
               '<div class="entry-excerpt">' +
-                '<p>' + store[ref].excerpt.slice(0, 100) + '...</p>' +
+                '<p>' + (store[ref].excerpt.length > 300 ? (store[ref].excerpt.slice(0, 300) + "...") : (store[ref].excerpt)) + '</p>' +
               '</div>' +
             '</article>';
           resultdiv.append(searchitem);

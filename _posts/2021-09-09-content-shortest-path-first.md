@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Content Shortest Path First"
-excerpt: "Solace's Content Shortest Path First (CSPF) protocol is used to link neighboring event brokers and allow them to discover the complete messaging network topology to which they belong"
+excerpt: "Solace's Content Shortest Path First (CSPF) protocol is used to link neighboring event brokers and allow them to discover the complete messaging network topology to which they belong."
 acronym: "CSPF"
 categories:
   - "Routing Protocol"

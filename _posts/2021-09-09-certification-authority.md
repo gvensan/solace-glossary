@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Certification Authority"
-excerpt: "In cryptography, a certificate authority or certification authority is an entity that issues digital certificates"
+excerpt: "In cryptography, a certificate authority or certification authority is an entity that issues digital certificates."
 acronym: "CA"
 categories:
   - "Cryptography"

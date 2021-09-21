@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Amazon Web Services"
-excerpt: "Solace PubSub+ Cloud supports AWS"
+excerpt: "Solace PubSub+ Cloud supports AWS."
 acronym: "AWS"
 categories:
   - "Deployment"

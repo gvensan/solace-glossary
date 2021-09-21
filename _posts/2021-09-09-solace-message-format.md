@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solace Message Format"
-excerpt: "Solace Message Format (SMF) is Solace PubSub+'s underlying messaging protocol"
+excerpt: "Solace Message Format (SMF) is Solace PubSub+'s underlying messaging protocol."
 acronym: "SMF"
 categories:
   - "Message Format"

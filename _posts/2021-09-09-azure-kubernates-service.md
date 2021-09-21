@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure Kubernates Service"
-excerpt: "Solace PubSub+ Cloud supports AKS"
+excerpt: "Solace PubSub+ Cloud supports AKS."
 acronym: "AKS"
 categories:
   - "Deployment"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Replaying Endpoint"
-excerpt: "An endpoint under replay"
+excerpt: "An endpoint under replay."
 categories:
   - "Message Replay"
 references:

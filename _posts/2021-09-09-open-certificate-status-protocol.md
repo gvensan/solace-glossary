@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Certificate Status Protocol"
-excerpt: "OCSP is used to configure Solace PubSub+ event brokers to use a certification authority (CA)"
+excerpt: "OCSP is used to configure Solace PubSub+ event brokers to use a certification authority (CA)."
 acronym: "OCSP"
 categories:
   - "Messaging Protocol"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Application Programming Interface"
-excerpt: "Solace provides enterprise messaging Application Programming Interfaces (APIs) that enable you to develop applications for use with Solace PubSub+"
+excerpt: "Solace provides enterprise messaging Application Programming Interfaces (APIs) that enable you to develop applications for use with Solace PubSub+."
 acronym: "API"
 references:
   - "https://docs.solace.com/Solace-PubSub-Messaging-APIs/Solace-APIs-Overview.htm"

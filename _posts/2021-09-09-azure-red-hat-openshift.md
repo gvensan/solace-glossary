@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Azure Red Hat OpenShift"
-excerpt: "Solace PubSub+ Cloud supports ARO"
+excerpt: "Solace PubSub+ Cloud supports ARO."
 acronym: "ARO"
 categories:
   - "Deployment"

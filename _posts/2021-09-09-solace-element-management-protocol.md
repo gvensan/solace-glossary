@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Solace Element Management Protocol"
-excerpt: "Solace Element Management Protocol version 2 (SEMP v2) is a RESTful API that you can use to configure Solace PubSub+ event brokers"
+excerpt: "Solace Element Management Protocol version 2 (SEMP v2) is a RESTful API that you can use to configure Solace PubSub+ event brokers."
 acronym: "SEMP"
 categories:
   - "Management Protocol"

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Replay Log Trimming"
-excerpt: "The process of automatically deleting the oldest messages from the replay log to make room for new live data"
+excerpt: "The process of automatically deleting the oldest messages from the replay log to make room for new live data."
 categories:
   - "Message Replay"
 references:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Servie Oriented Architecture"
-excerpt: "Service-oriented architecture (SOA) is an architectural style that supports service orientation"
+excerpt: "Service-oriented architecture (SOA) is an architectural style that supports service orientation."
 acronym: "SOA"
 categories:
   - "Architecture Pattern"

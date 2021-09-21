@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google Kubernetes Engine"
-excerpt: "Solace PubSub+ Cloud supports GKE"
+excerpt: "Solace PubSub+ Cloud supports GKE."
 acronym: "GKE"
 categories:
   - "Deployment"

@@ -25,7 +25,11 @@
   {% unless page.show_excerpts == false %}
     <div class="entry-excerpt p-summary">
       {% if entry.excerpt %}
-        {{ entry.excerpt | markdownify }}
+        {% assign short_excerpt = entry.excerpt  | slice: 0, 100 %}
+        {% if entry.excerpt.size > 100 %}
+          {% assign short_excerpt = short_excerpt | append: "..." %}
+        {% endif %}
+        {{ short_excerpt | markdownify }}
       {% endif %}
     </div>
   {% endunless %}

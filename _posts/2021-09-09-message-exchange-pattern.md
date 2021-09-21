@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Message Exchange Pattern"
-excerpt: "In software architecture, a messaging pattern is an architectural pattern which describes how two different parts of an application, or different systems connect and communicate with each other"
+excerpt: "In software architecture, a messaging pattern is an architectural pattern which describes how two different parts of an application, or different systems connect and communicate with each other."
 acronym: "MEP"
 categories:
   - "Message Delivery"

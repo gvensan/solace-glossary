@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Class of Service"
-excerpt: "Class of Service (COS) level controls <br/>- which of the per‑client priority queues on the event broker the messages are placed on and<br/>- the rate at which they are sent out from the event broker to consuming clients"
+excerpt: "Class of Service (COS) level controls <br/>- which of the per‑client priority queues on the event broker the messages are placed on and<br/>- the rate at which they are sent out from the event broker to consuming clients."
 acronym: "CoS"
 categories:
   - "Message Delivery"

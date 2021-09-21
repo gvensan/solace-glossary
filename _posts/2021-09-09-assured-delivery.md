@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Assured Delivery"
-excerpt: "Guaranteed Messaging, also known as Assured Delivery is a once‑and‑only‑once message delivery mechanism supported by Solace"
+excerpt: "Guaranteed Messaging, also known as Assured Delivery is a once‑and‑only‑once message delivery mechanism supported by Solace."
 acronym: "AD"
 categories:
   - "Message Delivery"

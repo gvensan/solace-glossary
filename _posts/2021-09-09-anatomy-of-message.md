@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anatomy of Message"
-excerpt: "An event, along with a query or command, is a type of message:<br/>- An event is something that has happened that your application needs to tell other applications about or<br/>- A query is a message that retrieves information or<br/>- A command instructs another application to do perform an action or change a state"
+excerpt: "An event, along with a query or command, is a type of message:<br/>- An event is something that has happened that your application needs to tell other applications about or<br/>- A query is a message that retrieves information or<br/>- A command instructs another application to do perform an action or change a state."
 categories:
   - "Message Exchange"
 references:
