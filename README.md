@@ -20,7 +20,6 @@ Any addition and modification are to be made to this excel file as it is the sin
 | `Date`             | IMPORTANT: Enter the date value when __NEW ROW__ is added - otherwise, do not modify the existing date value (it is used as part of the generated markdown file - change would create duplicate entries).                        |
 | `Abbreviation`            | Enter the abbreviation, if available for the referred term.|
 | `Term`            | The term of reference (aka topic name) being discussed. If a topic name requires to be duplicated, create  distinction in the term name by adding a suffix (as simple as a counter 1,2,3… or other literals). The value in this column has to be unique.
-|
 | `Description`            | Description of the term - precise definition of the term.|
 | `Category`            | The categorization that best captures the term of reference for collective reference. A term could be associated with multiple categories, in which case enter the category names as a comma-separated value|
 | `Tags`            | The tags that best identifies the term of reference for quicker access. A term could be associated with multiple tags, in which case enter the tag names as a comma-separated value|
